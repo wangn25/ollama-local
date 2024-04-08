@@ -1,0 +1,2 @@
+ollama ==0.1.29
+streamlit == 1.29.0
